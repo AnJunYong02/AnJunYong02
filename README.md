@@ -9,8 +9,9 @@
 ## 🎯 Achievements
 - [2021.11] 교내 SW 페스티벌 공모전 (1학년 소프트웨어 공모전) 우수상
 - [2021.12] 교내 C 프로그래밍 경진대회 우수상
-- [2023.5] 해병대 창업경진대회 우수상
+- [2023.05] 해병대 창업경진대회 우수상
 - [2024.11] 교내 SW 페스티벌 공모전 (SW 콘텐츠 공모전) 우수상
+- [2025.07] 포항시 전시산업 해커톤 우수상
 
 
 ## 🔧 Tech Stack
@@ -20,7 +21,6 @@
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
     <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
     <br/>
-    <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> 
 </div>
